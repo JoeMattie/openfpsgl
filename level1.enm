@@ -1,0 +1,21 @@
+"numEnemies" "2"
+
+"enemy" "evilpac"
+"startlocation" "2" "2" "2"
+"gravity" "yes"
+"clipping" "yes"
+"attackdistance" "5"
+"speed" "0.045"
+"health" "100"
+"attackdamage" "5"
+"end" "evilpac"
+
+"enemy" "evilpac"
+"startlocation" "10" "15" "18"
+"gravity" "no"
+"clipping" "yes"
+"attackdistance" "20"
+"speed" "0.065"
+"end" "evilpac"
+
+"eof"
